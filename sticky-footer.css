@@ -27,3 +27,7 @@ h1 {
 .container .text-muted {
   margin: 20px 0;
 }
+
+.page-header{
+  background-color: #87C6FA;
+}
