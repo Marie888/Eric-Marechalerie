@@ -21,7 +21,7 @@ h1 {
 }
 
 img {
-  border : solid 4px white;
+  border : solid 4px black;
 }
 
 td, th {
@@ -33,6 +33,11 @@ td, th {
   max-width: 1200px;
   padding: 0 15px;
 }
+.text-muted {
+  text-align : center;
+  font-style : italic;
+}
+
 .container .text-muted {
   margin: 20px 0;
 }
