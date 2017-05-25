@@ -43,3 +43,7 @@ td, th {
 .container .text-muted {
   margin: 20px 0;
 }
+
+.photos{
+  border : 5px solid black;
+}
