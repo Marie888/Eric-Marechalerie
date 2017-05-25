@@ -20,13 +20,11 @@ h1 {
   margin-left: 300px;
 }
 
-table {
-  border-collapse: collapse;
+th {
+  font-size : 5pt;
 }
 
-td, th
-{
-    border : 2px ;
+td, th {
     text-align : center;
 }
 
