@@ -17,6 +17,8 @@ footer {
 }
 
 h1 {
+  margin-left: 250px;
+  margin-top: 20px;
   font-size: 70px;
   font-style: italic;
   color:white;
