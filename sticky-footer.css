@@ -20,6 +20,10 @@ h1 {
   margin-left: 300px;
 }
 
+img {
+  border : solid 4px white;
+}
+
 td, th {
     text-align : center;
 }
