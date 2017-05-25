@@ -27,7 +27,12 @@ img {
 }
 
 td, th {
-    text-align : center;
+  text-align : center;
+  border : solid 10px;
+}
+
+tr {
+  border : solid 10px;
 }
 
 .container {
