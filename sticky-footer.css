@@ -20,6 +20,15 @@ h1 {
   margin-left: 300px;
 }
 
+table {
+  border-collapse: collapse;
+}
+
+td, th
+{
+    border: 1px solid black;
+}
+
 .container {
   width: auto;
   max-width: 1200px;
